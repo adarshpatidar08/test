@@ -10,7 +10,7 @@ body {
 .section {
     width: 100%;
     height: 100vh;
-    background-color: #67BE4D;
+    background-color: #5cb142;
     display: flex;
     justify-content: center;
     align-items: center;
